@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stepper-form-react/static/css/main.a24b04e9.css",
+    "main.js": "/stepper-form-react/static/js/main.aab61186.js",
+    "index.html": "/stepper-form-react/index.html",
+    "main.a24b04e9.css.map": "/stepper-form-react/static/css/main.a24b04e9.css.map",
+    "main.aab61186.js.map": "/stepper-form-react/static/js/main.aab61186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24b04e9.css",
+    "static/js/main.aab61186.js"
+  ]
+}
