@@ -1,0 +1,58 @@
+.steps{
+    width: 100%;
+    margin-top: 30px;
+}
+.inp-div{
+    margin-top: 30px;
+}
+.inp-div label{
+    color: lightslategray;
+}
+.inp-div input, select{
+    border: none;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0 8px inset rgba(0, 0, 0, 0.2);
+    height: 40px;
+    font-size: 20px;
+    color: #c71473;
+    padding: 0 10px;
+}
+.inp-div input:focus{
+    outline: 1px solid #c71473;
+}
+.inp-div select{
+    background: #c71473;
+    color: #fff;
+}
+.radio-div{
+    margin-top: 20px;
+}
+.radio-div p{
+    color: lightslategray;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.flex input{
+    width: 40px;
+    accent-color: #c71473;
+}
+.check-div{
+    display: flex;
+}
+.check-div input{
+    width: 30px;
+    height: 30px;
+    accent-color: #c71473;
+    box-shadow: none;
+    outline: none;
+}
+.check-div input:focus{
+    outline: none;
+}
+.check-div p{
+    font-weight: lighter;
+    margin-left: 10px;
+}
